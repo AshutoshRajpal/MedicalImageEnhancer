@@ -1,0 +1,11 @@
+
+#### **Option 2: Edit README Locally**
+
+1. Open `README.md` in your text editor (like VS Code, Sublime Text, etc.).
+2. Make your changes (you can copy and paste the content from above or customize it as you see fit).
+3. After saving your changes, run the following Git commands to update the file on GitHub:
+
+```bash
+git add README.md
+git commit -m "Update README with new description and instructions"
+git push
